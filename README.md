@@ -1,16 +1,20 @@
-## Hi there 👋
+### Saudações 👋
 
-<!--
-**sosnoski/sosnoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Se você está aqui, provavelmente quer saber mais sobre meu trabalho, certo?
 
-Here are some ideas to get you started:
+Em resumo, sou um desenvolvedor full cycle de Rio Branco, AC, Amazônia, Brasil. Atualmente trabalho na Secretaria de Estado da Fazenda do Acre, além de atividades freelance. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fui eleito melhor engenheiro de software da amazônia ocidental, pela minha mãe.
+
+Minhas ferramentas de trabalho favoritas incluem, mas não se limitam a:
+- NextJs 💚
+- Laravel 💙
+- Terminal preto com letrinhas brancas 💛
+
+Fique à vontade para [falar comigo](mailto:fernando@sosnoski.dev) sobre trabalho, colaborações e projetos.
+
+✨🚀✨👨🏻‍🚀✨🖖✨
+
+---
+
+> "Where there is a shell, there is a way"
